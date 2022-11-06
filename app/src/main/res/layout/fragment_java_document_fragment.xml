@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".Java_page">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardview01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="20dp"
+        app:cardElevation="10dp"
+        app:contentPadding="20dp">
+
+        <LinearLayout
+            android:id="@+id/layout01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            //For title
+
+            <TextView
+                android:id="@+id/javadata01"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="data-01"
+                android:textColor="@color/black"
+                android:textSize="22dp"
+                android:textStyle="bold" />
+
+            //For description
+
+            <TextView
+                android:id="@+id/javadetail01"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" sfnvnsf ojffsk fjs coc ks osnf jfos osubosj soi skck ouc kck oc js ocs sjc soc sc soc scj ocb c jc sjdcd codcd oudkd sos oso  zx kz suosxsx  fnvnsf ojffsk fjs coc ks osnf jfos osubosj soi skck ouc kck oc js ocs sjc soc sc soc scj ocb c jc sjdcd codcd oud"
+                android:textSize="15dp"
+                android:visibility="gone" />
+
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>

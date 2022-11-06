@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".cpp_page">
+
+   <ScrollView
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       >
+       <com.ms.square.android.expandabletextview.ExpandableTextView
+           android:id="@+id/expand_text_view"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           xmlns:expandableTextView ="http://schemas.android.com/apk/res-auto"
+           expandableTextView:animDuration="2000"
+           expandableTextView:maxCollapsedLines="2"
+           android:padding="15dp"
+           >
+
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:id="@+id/expandable_textview"
+               android:textSize="18dp"
+               android:textColor="@android:color/black"
+               />
+
+           <ImageButton
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_gravity="right"
+               android:background="@android:color/transparent"
+               />
+
+       </com.ms.square.android.expandabletextview.ExpandableTextView>
+
+
+
+   </ScrollView>
+
+</LinearLayout>

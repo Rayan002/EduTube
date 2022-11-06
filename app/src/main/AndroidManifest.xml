@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.edutube">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.EduTube"
+        tools:targetApi="31">
+        <activity
+            android:name=".Database"
+            android:exported="false" />
+        <activity
+            android:name=".CpptExercise"
+            android:exported="false" />
+        <activity
+            android:name=".CpptDoc"
+            android:exported="false" />
+        <activity
+            android:name=".CpptVideo"
+            android:exported="false" />
+        <activity
+            android:name=".Cpp_type"
+            android:exported="false" />
+        <activity
+            android:name=".CtExercise"
+            android:exported="false" />
+        <activity
+            android:name=".CtDoc"
+            android:exported="false" />
+        <activity
+            android:name=".CtVideo"
+            android:exported="false" />
+        <activity
+            android:name=".C_type"
+            android:exported="false" />
+        <activity
+            android:name=".PythontExercise"
+            android:exported="false" />
+        <activity
+            android:name=".PythontDoc"
+            android:exported="false" />
+        <activity
+            android:name=".PythontVideo"
+            android:exported="false" />
+        <activity
+            android:name=".Python_type"
+            android:exported="false" />
+        <activity
+            android:name=".JavatExercise"
+            android:exported="false" />
+        <activity
+            android:name=".JavatDoc"
+            android:exported="false" />
+        <activity
+            android:name=".JavatVideo"
+            android:exported="false" />
+        <activity
+            android:name=".Java_type"
+            android:exported="false" />
+        <activity
+            android:name=".trail_activity_01"
+            android:exported="false" />
+        <activity
+            android:name=".Custom_listview"
+            android:exported="false" />
+        <activity
+            android:name=".c_document"
+            android:exported="false" />
+        <activity
+            android:name=".c_page"
+            android:exported="false" />
+        <activity
+            android:name=".cpp_page"
+            android:exported="false" />
+        <activity
+            android:name=".Java_page"
+            android:exported="false" />
+        <activity
+            android:name=".Python_page"
+            android:exported="false" />
+        <activity
+            android:name=".ui.login.LoginActivity"
+            android:exported="false"
+            android:label="@string/title_activity_login" />
+        <activity
+            android:name=".Explore"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

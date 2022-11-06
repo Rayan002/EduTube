@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/drawable/custom_button.xml" value="0.1" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/drawable/custom_edittext.xml" value="0.1" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/drawable/custom_input.xml" value="0.1" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/drawable/excerise.xml" value="0.114" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/drawable/home_vector.xml" value="0.1" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/drawable/password.xml" value="0.1955" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/drawable/username.xml" value="0.1" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/activity_cdocument.xml" value="0.209375" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/activity_cpage.xml" value="0.209375" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/activity_cpp_page.xml" value="0.1953125" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/activity_cpp_type.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/activity_cppt_doc.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/activity_cppt_exercise.xml" value="0.196875" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/activity_cppt_video.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/activity_ct_doc.xml" value="0.196875" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/activity_ct_exercise.xml" value="0.196875" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/activity_ct_video.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/activity_ctype.xml" value="0.196875" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/activity_custom_listview.xml" value="0.209375" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/activity_database.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/activity_explore.xml" value="0.21" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/activity_java_page.xml" value="0.209375" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/activity_java_type.xml" value="0.25" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/activity_javat_doc.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/activity_javat_exercise.xml" value="0.196875" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/activity_javat_video.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/activity_python_page.xml" value="0.209375" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/activity_python_type.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/activity_pythont_doc.xml" value="0.196875" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/activity_pythont_exercise.xml" value="0.196875" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/activity_pythont_video.xml" value="0.196875" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/activity_trail01.xml" value="0.209375" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/cardviewer.xml" value="0.209375" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/cardviewer01.xml" value="0.209375" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/cardviewer02.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/cardviwer_video.xml" value="0.209375" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/content_cdocuments.xml" value="0.1686746987951807" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/content_javat_doc.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/fragment_c_document_fragment.xml" value="0.209375" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/fragment_c_exercise_fragment.xml" value="0.209375" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/fragment_c_video_fragment.xml" value="0.209375" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/fragment_cpp_document_fragment.xml" value="0.209375" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/fragment_cpp_exercise_fragment.xml" value="0.1953125" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/fragment_cpp_video_fragment.xml" value="0.209375" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/fragment_java_document_fragment.xml" value="0.1953125" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/fragment_java_exercise_fragment.xml" value="0.1953125" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/fragment_java_video_fragment.xml" value="0.1953125" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/fragment_pyhton_document_fragment.xml" value="0.209375" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/fragment_python_exsercise_fragment.xml" value="0.1953125" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/fragment_python_video_fragement.xml" value="0.209375" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/layout/row.xml" value="0.209375" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/menu/bottom_navigation.xml" value="0.209375" />
+        <entry key="..\:/Users/HP 245/AndroidStudioProjects/EduTube/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

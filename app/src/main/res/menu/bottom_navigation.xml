@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item android:id="@+id/video"
+    android:title="Video"
+    android:icon="@drawable/video_vector"
+    />
+    <item android:id="@+id/document"
+        android:title="Documents"
+        android:icon="@drawable/ic_baseline_assignment_24"
+        />
+    <item android:id="@+id/excercise"
+        android:title="exercise"
+        android:icon="@drawable/excercise_vector"
+        />
+
+</menu>
